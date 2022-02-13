@@ -7,6 +7,22 @@ package com.eachenkuang.swordoffer.datastructure;
  * @description:
  */
 public class Helper {
+
+    /**
+     * 找index
+     * @param arr
+     * @param target
+     * @return
+     */
+    public static int index(int[] arr, int target) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == target) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
     public static ListNode buildListNodeFromArrays(int[] nums) {
         ListNode head = new ListNode(0);
         ListNode h = head;
