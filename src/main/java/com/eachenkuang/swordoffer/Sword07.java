@@ -1,10 +1,6 @@
 package com.eachenkuang.swordoffer;
 
-import com.eachenkuang.swordoffer.datastructure.Helper;
 import com.eachenkuang.swordoffer.datastructure.TreeNode;
-import com.sun.tools.javac.util.ArrayUtils;
-
-import java.util.Arrays;
 import java.util.HashMap;
 
 /**
