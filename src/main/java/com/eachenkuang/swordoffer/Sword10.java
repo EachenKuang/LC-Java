@@ -32,14 +32,14 @@ package com.eachenkuang.swordoffer;
  */
 public class Sword10 {
 
-    private final int mode = 1000000007;
+    private final static int mode = 1000000007;
 
     /**
      * 递归方法
      * @param n
      * @return
      */
-    public int fib(int n) {
+    public static int fib(int n) {
         if (n < 2) {
             return n;
         }
@@ -53,7 +53,7 @@ public class Sword10 {
      * @param n
      * @return
      */
-    public int fib2(int n) {
+    public static int fib2(int n) {
         if (n < 2) {
             return n;
         }
@@ -66,5 +66,10 @@ public class Sword10 {
             f2 = temp % mode;
         }
         return f2;
+    }
+
+    public static void main(String[] args) {
+        int n = 10;
+        System.out.print(fib2(n));
     }
 }
