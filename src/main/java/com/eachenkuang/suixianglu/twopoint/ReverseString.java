@@ -1,4 +1,4 @@
-package com.eachenkuang.suixianglu.strings;
+package com.eachenkuang.suixianglu.twopoint;
 
 /**
  * @author eachenkuang
