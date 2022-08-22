@@ -1,7 +1,5 @@
 package com.eachenkuang.suixianglu.stackqueue;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
