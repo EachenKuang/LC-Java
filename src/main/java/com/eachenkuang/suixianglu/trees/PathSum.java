@@ -27,11 +27,11 @@ public class PathSum {
         if (root == null) {
             return results;
         }
-        backTracing(root, results, paths, targetSum-root.val);
+        backTracking(root, results, paths, targetSum-root.val);
         return results;
     }
 
-    public void backTracing(TreeNode root, List<List<Integer>> results, LinkedList<Integer> paths, int target) {
+    public void backTracking(TreeNode root, List<List<Integer>> results, LinkedList<Integer> paths, int target) {
         paths.addLast(root.val);
         if (root.left == null && root.right == null && target == 0) {
             // 遇到叶子节点，且满足条件，需要拷贝当前数组形成一个新的数组
@@ -40,11 +40,11 @@ public class PathSum {
             return;
         }
         if (root.left != null) {
-            backTracing(root.left, results, paths, target-root.left.val);
+            backTracking(root.left, results, paths, target-root.left.val);
             paths.removeLast(); // 回溯
         }
         if (root.right != null) {
-            backTracing(root.right, results, paths,target-root.right.val);
+            backTracking(root.right, results, paths,target-root.right.val);
             paths.removeLast(); // 回溯
         }
     }

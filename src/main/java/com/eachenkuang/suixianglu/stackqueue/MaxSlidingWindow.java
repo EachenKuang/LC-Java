@@ -21,7 +21,7 @@ public class MaxSlidingWindow {
      */
     public int[] maxSlidingWindow(int[] nums, int k) {
         int[] result = new int[nums.length + 1 - k];
-        MyQueue queue = new MyQueue();
+        MyQueue1 queue = new MyQueue1();
         for (int i = 0; i < k; i++) {
             queue.push(nums[i]);
         }
@@ -64,11 +64,11 @@ public class MaxSlidingWindow {
     
 }
 
-class MyQueue {
+class MyQueue1 {
     
     Deque<Integer> deque;
 
-    public MyQueue() {
+    public MyQueue1() {
         deque = new LinkedList<>();
     }
 

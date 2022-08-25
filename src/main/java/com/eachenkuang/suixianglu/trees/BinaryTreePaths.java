@@ -26,11 +26,11 @@ public class BinaryTreePaths {
         }
         List<String> results = new LinkedList<>();
         LinkedList<Integer> paths = new LinkedList<>();
-        backTracing(root, results, paths);
+        backTracking(root, results, paths);
         return results;
     }
 
-    public void backTracing(TreeNode root, List<String> results, LinkedList<Integer> paths) {
+    public void backTracking(TreeNode root, List<String> results, LinkedList<Integer> paths) {
         paths.addLast(root.val);
         if (root.left == null && root.right == null) {
             // 遇到叶子节点
@@ -43,11 +43,11 @@ public class BinaryTreePaths {
             return;
         }
         if (root.left != null) {
-            backTracing(root.left, results, paths);
+            backTracking(root.left, results, paths);
             paths.removeLast(); // 回溯
         }
         if (root.right != null) {
-            backTracing(root.right, results, paths);
+            backTracking(root.right, results, paths);
             paths.removeLast(); // 回溯
         }
     }

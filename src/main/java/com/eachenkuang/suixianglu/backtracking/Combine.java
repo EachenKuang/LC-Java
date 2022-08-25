@@ -1,4 +1,4 @@
-package com.eachenkuang.suixianglu.backtracing;
+package com.eachenkuang.suixianglu.backtracking;
 
 import java.util.ArrayList;
 import java.util.Deque;
