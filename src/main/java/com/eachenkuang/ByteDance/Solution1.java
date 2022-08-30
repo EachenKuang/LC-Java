@@ -2,7 +2,7 @@ package com.eachenkuang.ByteDance;
 
 import java.util.Scanner;
 
-class solution1 {
+class Solution1 {
     
     public static String adjust(String s) {
         StringBuilder sb = new StringBuilder(s);
