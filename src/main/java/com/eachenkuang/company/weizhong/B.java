@@ -1,4 +1,4 @@
-package com.eachenkuang.weizhong;
+package com.eachenkuang.company.weizhong;
 
 /**
  * @author eachenkuang

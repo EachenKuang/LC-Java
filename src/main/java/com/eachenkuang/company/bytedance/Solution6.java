@@ -1,4 +1,4 @@
-package com.eachenkuang.ByteDance;
+package com.eachenkuang.company.bytedance;
 
 import java.util.Scanner;
 

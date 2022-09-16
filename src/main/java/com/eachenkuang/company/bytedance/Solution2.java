@@ -1,7 +1,5 @@
-package com.eachenkuang.ByteDance;
+package com.eachenkuang.company.bytedance;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 
