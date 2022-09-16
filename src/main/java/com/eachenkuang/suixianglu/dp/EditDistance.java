@@ -6,6 +6,13 @@ package com.eachenkuang.suixianglu.dp;
  * @description:
  */
 public class EditDistance {
+    /**
+     * dp[i][j] 表示以下标i-1为结尾的字符串word1，和以下标j-1为结尾的字符串word2，最近编辑距离为dp[i][j]。
+     * 增加和删除的操作实质是一样的
+     * @param word1
+     * @param word2
+     * @return
+     */
     public int minDistance(String word1, String word2) {
         int m = word1.length();
         int n = word2.length();
