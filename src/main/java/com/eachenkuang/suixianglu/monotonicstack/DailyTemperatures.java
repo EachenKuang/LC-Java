@@ -1,5 +1,8 @@
 package com.eachenkuang.suixianglu.monotonicstack;
 
+import java.util.Deque;
+import java.util.LinkedList;
+
 /**
  * @author eachenkuang
  * @date 2022/9/16 16:51
@@ -41,11 +44,62 @@ public class DailyTemperatures {
         return result;
     }
 
+    /**
+     * 单调栈法
+     * @param temperatures
+     * @return
+     */
+    public static int[] dailyTemperatures2(int[] temperatures) {
+        int[] result = new int[temperatures.length];
+        Deque<Integer> deque = new LinkedList<>();
+        deque.push(0);
+        for (int i = 1; i < temperatures.length; i++) {
+            if (temperatures[i] <= temperatures[deque.peek()]) {
+                deque.push(i);
+            } else {
+                while(!deque.isEmpty() && temperatures[i]>temperatures[deque.peek()]) {
+                    result[deque.peek()] = i - deque.peek();
+                    deque.pop();
+                }
+                deque.push(i);
+            }
+        }
+        return result;
+    }
+
+    public static int[] dailyTemperatures3(int[] temperatures) {
+        int[] result = new int[temperatures.length];
+        Deque<Integer> deque = new LinkedList<>();
+        for (int i = 0; i < temperatures.length; i++) {
+            while(!deque.isEmpty() && temperatures[i]>temperatures[deque.peek()]) {
+                result[deque.peek()] = i - deque.peek();
+                deque.pop();
+            }
+            deque.push(i);
+
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         int[] temperatures = {73,74,75,71,69,72,76,73};
         int[] result = dailyTemperatures(temperatures);
+        int[] result2 = dailyTemperatures2(temperatures);
+        int[] result3 = dailyTemperatures3(temperatures);
+
         for (int i = 0; i < result.length; i++) {
-            System.out.println(result[i]);
+            System.out.print(result[i]);
+            System.out.print(" ");
+        }
+        System.out.println();
+        for (int i = 0; i < result.length; i++) {
+            System.out.print(result2[i]);
+            System.out.print(" ");
+        }
+        System.out.println();
+        for (int i = 0; i < result.length; i++) {
+            System.out.print(result3[i]);
+            System.out.print(" ");
         }
 
     }
