@@ -25,4 +25,7 @@
 | [219. 存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) | easy | 2022.10.14 | [Lc219.java](Lc219.java) |
 | [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) | easy | 2022.10.15 | [Lc225.java](Lc225.java) |
 | [228. 汇总区间](https://leetcode.cn/problems/contains-duplicate-ii/) | easy | 2022.10.15 | [Lc228.java](Lc218.java) |
-| [231. 2 的幂](https://leetcode.cn/problems/contains-duplicate-ii/) |   easy   |   2022.10.15         |        [Lc231.java](Lc231.java)                  |
+| [231. 2 的幂](https://leetcode.cn/problems/contains-duplicate-ii/) | easy | 2022.10.15 | [Lc231.java](Lc231.java) |
+| [258. 各位相加](https://leetcode.cn/problems/add-digits/)    | easy | 2022.10.16 | [Lc258.java](Lc258.java) |
+| [263. 丑数](https://leetcode.cn/problems/ugly-number/)       | easy | 2022.10.16 | [Lc263.java](Lc263.java) |
+| [268. 丢失的数字](https://leetcode.cn/problems/missing-number/) | easy | 2022.10.16 | [Lc268.java](Lc268.java) |
