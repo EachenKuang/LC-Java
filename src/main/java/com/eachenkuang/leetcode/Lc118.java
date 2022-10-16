@@ -1,7 +1,5 @@
 package com.eachenkuang.leetcode;
 
-import com.eachenkuang.arrays.Solution;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -58,6 +56,6 @@ public class Lc118 {
 
     public static void main(String[] args) {
         int numRows = 4;
-        System.out.println(generate(4));
+        System.out.println(generate(numRows));
     }
 }
