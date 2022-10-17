@@ -29,3 +29,6 @@
 | [258. 各位相加](https://leetcode.cn/problems/add-digits/)    | easy | 2022.10.16 | [Lc258.java](Lc258.java) |
 | [263. 丑数](https://leetcode.cn/problems/ugly-number/)       | easy | 2022.10.16 | [Lc263.java](Lc263.java) |
 | [268. 丢失的数字](https://leetcode.cn/problems/missing-number/) | easy | 2022.10.16 | [Lc268.java](Lc268.java) |
+| [290. 单词规律](https://leetcode.cn/problems/word-pattern/)  | easy | 2022.10.17 | [Lc290.java](Lc290.java) |
+| [292. Nim 游戏](https://leetcode.cn/problems/nim-game/)      | easy | 2022.10.17 | [Lc292.java](Lc292.java) |
+| [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | easy | 2022.10.17 | [Lc303.java](Lc303.java) |
