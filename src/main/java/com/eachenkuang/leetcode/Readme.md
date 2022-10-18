@@ -32,3 +32,6 @@
 | [290. 单词规律](https://leetcode.cn/problems/word-pattern/)  | easy | 2022.10.17 | [Lc290.java](Lc290.java) |
 | [292. Nim 游戏](https://leetcode.cn/problems/nim-game/)      | easy | 2022.10.17 | [Lc292.java](Lc292.java) |
 | [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | easy | 2022.10.17 | [Lc303.java](Lc303.java) |
+| [326. 3 的幂 ](https://leetcode.cn/problems/power-of-three/) | easy | 2022.10.17 | [Lc326.java](Lc326.java) |
+| [338. 比特位计数](https://leetcode.cn/problems/counting-bits/) | easy | 2022.10.17 | [Lc338.java](Lc338.java) |
+| [342. 4的幂](https://leetcode.cn/problems/power-of-four/)    | easy | 2022.10.17 | [Lc342.java](Lc342.java) |
