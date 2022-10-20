@@ -32,10 +32,13 @@
 | [290. 单词规律](https://leetcode.cn/problems/word-pattern/)  | easy | 2022.10.17 | [Lc290.java](Lc290.java) | 28    |
 | [292. Nim 游戏](https://leetcode.cn/problems/nim-game/)      | easy | 2022.10.17 | [Lc292.java](Lc292.java) | 29    |
 | [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | easy | 2022.10.17 | [Lc303.java](Lc303.java) | 30    |
-| [326. 3 的幂 ](https://leetcode.cn/problems/power-of-three/) | easy | 2022.10.17 | [Lc326.java](Lc326.java) | 31    |
-| [338. 比特位计数](https://leetcode.cn/problems/counting-bits/) | easy | 2022.10.17 | [Lc338.java](Lc338.java) | 32    |
-| [342. 4的幂](https://leetcode.cn/problems/power-of-four/)    | easy | 2022.10.17 | [Lc342.java](Lc342.java) | 33    |
-| [345. 反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | easy | 2022.10.18 | [Lc345.java](Lc345.java) | 34    |
-| [350. 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/submissions/) | easy | 2022.10.18 | [Lc350.java](Lc350.java) | 35    |
-| [367. 有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/) | easy | 2022.10.18 | [Lc367.java](Lc367.java) | 36    |
+| [326. 3 的幂 ](https://leetcode.cn/problems/power-of-three/) | easy | 2022.10.18 | [Lc326.java](Lc326.java) | 31    |
+| [338. 比特位计数](https://leetcode.cn/problems/counting-bits/) | easy | 2022.10.18 | [Lc338.java](Lc338.java) | 32    |
+| [342. 4的幂](https://leetcode.cn/problems/power-of-four/)    | easy | 2022.10.18 | [Lc342.java](Lc342.java) | 33    |
+| [345. 反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | easy | 2022.10.19 | [Lc345.java](Lc345.java) | 34    |
+| [350. 两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/submissions/) | easy | 2022.10.19 | [Lc350.java](Lc350.java) | 35    |
+| [367. 有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/) | easy | 2022.10.19 | [Lc367.java](Lc367.java) | 36    |
+| [374. 猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/) | easy | 2022.10.20 | [Lc374.java](Lc374.java) | 37    |
+| [387. 字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | easy | 2022.10.20 | [Lc387.java](Lc387.java) | 38    |
+| [389. 找不同](https://leetcode.cn/problems/find-the-difference/) | easy | 2022.10.20 | [Lc389.java](Lc389.java) | 39    |
 
