@@ -41,4 +41,7 @@
 | [374. 猜数字大小](https://leetcode.cn/problems/guess-number-higher-or-lower/) | easy | 2022.10.20 | [Lc374.java](Lc374.java) | 37    |
 | [387. 字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | easy | 2022.10.20 | [Lc387.java](Lc387.java) | 38    |
 | [389. 找不同](https://leetcode.cn/problems/find-the-difference/) | easy | 2022.10.20 | [Lc389.java](Lc389.java) | 39    |
+| [401. 二进制手表](https://leetcode.cn/problems/binary-watch/) | easy | 2022.10.21 | [Lc401.java](Lc401.java) | 40    |
+| [405. 数字转换为十六进制数](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/) | easy | 2022.10.21 | [Lc405.java](Lc405.java) | 41    |
+| [409. 最长回文串](https://leetcode.cn/problems/longest-palindrome/) | easy | 2022.10.21 | [Lc409.java](Lc409.java) | 42    |
 
