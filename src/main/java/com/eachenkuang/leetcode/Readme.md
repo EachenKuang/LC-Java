@@ -44,4 +44,7 @@
 | [401. 二进制手表](https://leetcode.cn/problems/binary-watch/) | easy | 2022.10.21 | [Lc401.java](Lc401.java) | 40    |
 | [405. 数字转换为十六进制数](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/) | easy | 2022.10.21 | [Lc405.java](Lc405.java) | 41    |
 | [409. 最长回文串](https://leetcode.cn/problems/longest-palindrome/) | easy | 2022.10.21 | [Lc409.java](Lc409.java) | 42    |
+| [412. Fizz Buzz ](https://leetcode.cn/problems/fizz-buzz/)   | easy | 2022.10.22 | [Lc412.java](Lc412.java) | 43    |
+| [414. 第三大的数](https://leetcode.cn/problems/third-maximum-number/) | easy | 2022.10.22 | [Lc414.java](Lc414.java) | 44    |
+| [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | easy | 2022.10.22 | [Lc415.java](Lc415.java) | 45    |
 
