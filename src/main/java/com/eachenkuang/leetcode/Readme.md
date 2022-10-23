@@ -47,4 +47,6 @@
 | [412. Fizz Buzz ](https://leetcode.cn/problems/fizz-buzz/)   | easy | 2022.10.22 | [Lc412.java](Lc412.java) | 43    |
 | [414. 第三大的数](https://leetcode.cn/problems/third-maximum-number/) | easy | 2022.10.22 | [Lc414.java](Lc414.java) | 44    |
 | [415. 字符串相加](https://leetcode.cn/problems/add-strings/) | easy | 2022.10.22 | [Lc415.java](Lc415.java) | 45    |
-
+| [434. 字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/) | easy | 2022.10.23 | [Lc434.java](Lc434.java) | 46    |
+| [441. 排列硬币](https://leetcode.cn/problems/arranging-coins/) | easy | 2022.10.23 | [Lc441.java](Lc441.java) | 47    |
+| [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | easy | 2022.10.23 | [Lc448.java](Lc448.java) | 48    |
