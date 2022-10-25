@@ -50,3 +50,7 @@
 | [434. 字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/) | easy | 2022.10.23 | [Lc434.java](Lc434.java) | 46    |
 | [441. 排列硬币](https://leetcode.cn/problems/arranging-coins/) | easy | 2022.10.23 | [Lc441.java](Lc441.java) | 47    |
 | [448. 找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | easy | 2022.10.23 | [Lc448.java](Lc448.java) | 48    |
+| [459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/) | easy | 2022.10.25 | [Lc459.java](Lc459.java) | 49    |
+| [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/) | easy | 2022.10.25 | [Lc461.java](Lc461.java) | 50    |
+| [463. 岛屿的周长](https://leetcode.cn/problems/island-perimeter/) | easy | 2022.10.25 | [Lc463.java](Lc463.java) | 51    |
+

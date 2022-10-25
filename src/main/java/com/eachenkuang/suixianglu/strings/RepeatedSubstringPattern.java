@@ -33,6 +33,8 @@ import java.util.Arrays;
 public class RepeatedSubstringPattern {
     /**
      * 使用暴力法
+     * 时间复杂度 O(n^2)
+     * 空间复杂度 O(1)
      * @param s
      * @return
      */
