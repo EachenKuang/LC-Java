@@ -53,4 +53,5 @@
 | [459. 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/) | easy | 2022.10.25 | [Lc459.java](Lc459.java) | 49    |
 | [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/) | easy | 2022.10.25 | [Lc461.java](Lc461.java) | 50    |
 | [463. 岛屿的周长](https://leetcode.cn/problems/island-perimeter/) | easy | 2022.10.25 | [Lc463.java](Lc463.java) | 51    |
+| [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | HARD | 2022.10.27 | [Lc4.java](Lc4.java) | 52    |
 
