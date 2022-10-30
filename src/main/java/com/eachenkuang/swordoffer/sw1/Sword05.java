@@ -1,4 +1,4 @@
-package com.eachenkuang.swordoffer;
+package com.eachenkuang.swordoffer.sw1;
 
 /**
  * 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。

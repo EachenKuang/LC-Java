@@ -1,4 +1,4 @@
-package com.eachenkuang.swordoffer;
+package com.eachenkuang.swordoffer.sw1;
 
 import java.util.LinkedList;
 
