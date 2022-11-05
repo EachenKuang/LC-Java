@@ -1,4 +1,4 @@
-package com.eachenkuang.swordoffer;
+package com.eachenkuang.swordoffer.sw1;
 
 import com.eachenkuang.swordoffer.datastructure.TreeNode;
 import java.util.HashMap;

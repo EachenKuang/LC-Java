@@ -54,6 +54,9 @@
 | [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)                                 | easy   | 2022.10.25 | [Lc461.java](Lc461.java) | 50    |
 | [463. 岛屿的周长](https://leetcode.cn/problems/island-perimeter/)                                | easy   | 2022.10.25 | [Lc463.java](Lc463.java) | 51    |
 | [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/)                | HARD   | 2022.10.27 | [Lc4.java](Lc4.java)     | 52    |
-| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)                    | medium | 2022.10.28 | [L54.java](Lc5.java)     | 53    |
-| [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)                              | easy   | 2022.11.05 | [L54.java](Lc5.java)     | 54    |
-| [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)                         | medium | 2022.11.05 | [L54.java](Lc5.java)     | 55    |
+| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)                    | MEDIUM | 2022.10.28 | [L5.java](Lc5.java)      | 53    |
+| [485. 最大连续 1 的个数 ](https://leetcode.cn/problems/max-consecutive-ones/)                      | easy   | 2022.10.29 | [L485.java](Lc485.java)  | 54    |
+| [507. 完美数 - ](https://leetcode.cn/problems/perfect-number/)                                 | easy   | 2022.10.29 | [L507.java](Lc507.java)  | 55    |
+| [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/)                                | easy   | 2022.10.29 | [L509.java](Lc509.java)  | 56    |
+| [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)                              | easy   | 2022.11.05 | [L54.java](Lc5.java)     | 57    |
+| [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)                         | medium | 2022.11.05 | [L54.java](Lc5.java)     | 58    |
