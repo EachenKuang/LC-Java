@@ -54,6 +54,6 @@
 | [461. 汉明距离](https://leetcode.cn/problems/hamming-distance/)                                 | easy   | 2022.10.25 | [Lc461.java](Lc461.java) | 50    |
 | [463. 岛屿的周长](https://leetcode.cn/problems/island-perimeter/)                                | easy   | 2022.10.25 | [Lc463.java](Lc463.java) | 51    |
 | [4. 寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/)                | HARD   | 2022.10.27 | [Lc4.java](Lc4.java)     | 52    |
-| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)                | MEDIUM | 2022.10.28 | [L54.java](Lc5.java)     | 53    |
-
-
+| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)                    | medium | 2022.10.28 | [L54.java](Lc5.java)     | 53    |
+| [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)                              | easy   | 2022.11.05 | [L54.java](Lc5.java)     | 54    |
+| [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)                         | medium | 2022.11.05 | [L54.java](Lc5.java)     | 55    |
